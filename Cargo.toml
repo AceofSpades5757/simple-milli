@@ -6,6 +6,10 @@ authors = ["Kyle L. Davis <aceofspades5757.github@gmail.com>"]
 description = "A simple implementation using the core engine of _Meilisearch_, `milli`, to create an embedded search engine."
 publish = true
 readme = "README.md"
+homepage = "https://github.com/AceofSpades5757/simple-milli"
+repository = "https://github.com/AceofSpades5757/simple-milli"
+documentation = "https://docs.rs/simple-milli/latest/simple-milli/"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 milli = { git = "https://github.com/meilisearch/milli.git", tag = "v0.33.4", version = "0.33.4" }
