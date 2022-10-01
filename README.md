@@ -15,6 +15,12 @@ be 10._
 
 # Usage
 
+Add this to your `Cargo.toml` manifest file's list of dependencies.
+
+`simple-milli = { git = "https://github.com/AceofSpades5757/simple-milli", tag = "v0.1.0", version = "0.1.0" }`
+
+This is a basic example.
+
 ```rust
 use serde::{Deserialize, Serialize};
 use simple_milli::Database;
@@ -55,3 +61,6 @@ fn main() {
 
 - [Meilisearch search engine](https://www.meilisearch.com/)
 - [GitHub - milli](https://github.com/meilisearch/milli)
+
+_As `milli`, and some of its dependencies are not yet available on crates.io,
+this crate cannot be published their either._
