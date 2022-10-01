@@ -8,7 +8,6 @@ publish = true
 readme = "README.md"
 homepage = "https://github.com/AceofSpades5757/simple-milli"
 repository = "https://github.com/AceofSpades5757/simple-milli"
-documentation = "https://docs.rs/simple-milli/latest/simple-milli/"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
