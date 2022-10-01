@@ -3,7 +3,8 @@ Meilisearch and its team, although I am a fan._
 
 # Description
 
-A simple implementation using the core engine of _Meilisearch_, `milli`.
+A simple implementation using the core engine of _Meilisearch_, `milli`, to
+create an embedded search engine.
 
 Uses the power of `milli` to create a basic, embedded search database. The only
 requirement is that your document implements the `Serialize` and `Deserialize`

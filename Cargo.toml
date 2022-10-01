@@ -3,6 +3,7 @@ name = "simple-milli"
 version = "0.1.0"
 edition = "2021"
 authors = ["Kyle L. Davis <aceofspades5757.github@gmail.com>"]
+description = "A simple implementation using the core engine of _Meilisearch_, `milli`, to create an embedded search engine."
 publish = true
 readme = "README.md"
 
